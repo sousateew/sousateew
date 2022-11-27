@@ -1,4 +1,4 @@
-### Hey, I'm Thiago Coutinho <img src="https://cdn.discordapp.com/emojis/1013109071466995762.webp" width="35" style="margin-top: 10px;"/>
+### Hey, I'm <a href="https://instagram.com/sousateew">Thiago Coutinho</a> <img src="https://cdn.discordapp.com/emojis/1013109071466995762.webp" width="35" style="margin-top: 10px;"/>
 
 - 🔭 MTA:SA Scripter and Back-end developer;
-- 👯 I'm collaborate with Amazing Store codes
+- 👯 I'm founder and developer at <a href="https://mta-rioroleplay.com">RIO Roleplay</a>
