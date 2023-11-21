@@ -2,6 +2,3 @@
 
 - 📚 MTA:SA Scripter and Fullstack student;
 - 👔 I'm founder and developer at <a href="https://rioroleplay.com.br">RIO Roleplay</a>
-
-## Know also
-- [@strstg](https://www.github.com/strstg)
